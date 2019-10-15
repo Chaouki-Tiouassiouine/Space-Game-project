@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/AZ-203-Chaouki/Spacegame%20-%20web%20-pipeline/_apis/build/status/Chaouki-Tiouassiouine.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/AZ-203-Chaouki/Spacegame%20-%20web%20-pipeline/_build/latest?definitionId=4&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
